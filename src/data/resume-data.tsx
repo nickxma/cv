@@ -20,18 +20,18 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
+  name: "Nick Mauro",
+  ENS: "nickxma.eth",
+  location: "New York City",
   locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
-    "Detail-oriented Full Stack Engineer dedicated to building high-quality products.",
+    "I really wish I knew!",
   summary:
-    "As a Full Stack Engineer, I specialize in taking products from concept to launch. I excel in leading teams and creating environments where individuals perform at their best. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience working remotely with companies worldwide.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+    "The thought stream that poses as me",
+  avatarUrl: "https://avatars.githubusercontent.com/u/18488428?v=4",
+//  personalWebsiteUrl: "https://jarocki.me",
   contact: {
-    email: "bartosz.jarocki@hey.com",
+    email: "nickxma@gmail.com",
     tel: "+48530213401",
     social: [
       {
