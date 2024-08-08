@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   summary:
     "The thought stream that poses as me",
   avatarUrl: "https://avatars.githubusercontent.com/u/18488428?v=4",
-//  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://jarocki.me",
   contact: {
     email: "nickxma@gmail.com",
     tel: "+48530213401",
