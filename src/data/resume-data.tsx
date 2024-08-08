@@ -124,6 +124,7 @@ export const RESUME_DATA = {
     "Relay",
     "WebRTC",
   ],
+  initials: "NM", // Add this line
   projects: [
     {
       title: "Parabol",
